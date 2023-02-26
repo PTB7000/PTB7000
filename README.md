@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PTB7000/PTB7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Preston Bacik
+
+**`Software Developer / Pilot`**
+
+I'm a former airline pilot seeking a career transition to the software development industry. Below you can find coding projects I've been working on. My projects follow a structured approach that begins with planning and design, and progresses through the implementation of code to address real-world issues.
+
+---
