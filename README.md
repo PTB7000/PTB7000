@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **`Software Developer / Pilot`**
 
-I'm a former airline pilot seeking a career transition to the software development industry. Here, you can find coding projects I've been working on. My projects follow a structured approach that begins with planning and design, and progresses through the implementation of code to address real-world issues.
+I'm a former airline pilot seeking a career transition to the software development industry. Here, you can find coding projects I've been working on. My projects follow a structured approach that begins with planning and design, and progresses through the implementation of code to address real-world issues. My most recent project is the Takeoff Distance Calculator. Please reference my repository titled "Takeoff-Distance-Calculator" for more information.
 
 ---
 
